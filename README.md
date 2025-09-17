@@ -18,8 +18,6 @@
 
 ## 📫 Contatos  
 
-<p align="left">
-  <a href="mailto:gabitamanini1437@gmail.com">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-</p>
+<a href="mailto:gabitamanini1437@gmail.com">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
