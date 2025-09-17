@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Gabriel Tamanini tenho 17 anos e estou atuando no momento como menor aprendiz de Assistente em Tecnologia da Informação
+# 👋 Prazer, eu sou Gabriel Tamanini
 
-🎓 Sou aluno da instituição **SENAI Timbó** em **Santa Catarina**
+🎓 Tenho 17 anos e estou atuando no momento como menor aprendiz de Assistente em Tecnologia da Informação da instituição **SENAI Timbó** em **Santa Catarina**
 
 📚 Atualmente estou aprendendo:  
 
